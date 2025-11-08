@@ -1,17 +1,16 @@
-# Traveling Salesman Problem Solutions
+#Code 1
 
-This repository contains multiple algorithms to solve the Traveling Salesman Problem (TSP).
+# TSP Solver: Combinatorial Bees Algorithm with Nearest Neighbor Method
+A solver for the Traveling Salesman Problem implemented based on the paper "Solving TSP by using combinatorial Bees algorithm with nearest neighbor method".
 
-## 🧬 Algorithms
+## Features
 
-### 2. Nearest Neighbor Algorithm  
-**Branch:** `nearest-neighbor-tsp`
+- 🐝 Combinatorial Bees Algorithm Implementation
 
-### 1. Genetic Algorithm
-**Branch:** `genetic-algorithm-tsp`
+- 📍 Nearest Neighbor Algorithm Initialization
 
-## 🚀 Quick Start
+- 🔄 Multiple Insertion, Reversal, and Other Local Search Operations
 
-### Prerequisites
-- Python 3.8+
-- pip package manager
+- 📊 Complete Performance Evaluation
+
+- 🎯 Supports TSPLIB Standard Format
