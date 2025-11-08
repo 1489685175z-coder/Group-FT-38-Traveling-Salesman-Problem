@@ -24,25 +24,8 @@ A genetic algorithm implementation for solving TSP with features:
 - Visualization of results
 - Convergence tracking
 
-**Files:**
-- `src/tsp_ga.py` - Main genetic algorithm implementation
-- `examples/tsp_demo.ipynb` - Usage examples
-- `requirements.txt` - Dependencies
-- 
 ## 🚀 Quick Start
 
 ### Prerequisites
 - Python 3.8+
 - pip package manager
-
-### Installation
-```bash
-# Clone the repository
-git clone https://github.com/Kasimer-0/Group-FT-38-Traveling-Salesman-Problem.git
-cd Group-FT-38-Traveling-Salesman-Problem
-
-# Switch to desired algorithm branch
-git checkout genetic-algorithm-tsp
-
-# Install dependencies
-pip install -r requirements.txt
