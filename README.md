@@ -4,10 +4,10 @@ This repository contains multiple algorithms to solve the Traveling Salesman Pro
 
 ## 🧬 Algorithms
 
-### 2. Nearest Neighbor Algorithm  
+### 1. Nearest Neighbor Algorithm  
 **Branch:** `nearest-neighbor-tsp`
 
-### 1. Genetic Algorithm
+### 2. Genetic Algorithm
 **Branch:** `genetic-algorithm-tsp`
 
 ## 🚀 Quick Start
